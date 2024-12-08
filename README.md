@@ -70,6 +70,6 @@ Dentro de la carpeta del entorno virtual creado previamente, y en el codigo
    ```bash
    python Interfaz.py  
 
-Documentación: [Descargar PDF](./DocumentacionFinal.pdf)
-Presentación de PowerPoint: # [Descargar presentación PowerPoint](./PRESENTACIONPOO.pptx)
+Documentación: [Descargar PDF](./DocumentacionFinal.pdf) //
+Presentación de PowerPoint: [Descargar presentación PowerPoint](./PRESENTACIONPOO.pptx)
 
