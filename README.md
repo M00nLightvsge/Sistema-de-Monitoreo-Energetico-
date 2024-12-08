@@ -7,4 +7,5 @@ Con sensores de corriente, creamos un sistema que monitoree el consumo eléctric
 * Facilitar la descarga y visualización de datos, empoderando al usuario con herramientas intuitivas.
 ## Requisitos
 * SQL SERVER MANAGDMENT STUDIO (Descargar la versión Developer aquí: https://www.microsoft.com/es-es/sql-server/sql-server-downloads , o realice una búsqueda en el navegador)
-* 
+* Versión de Python 3.7 o superior
+
