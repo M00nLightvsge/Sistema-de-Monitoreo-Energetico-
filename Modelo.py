@@ -1,7 +1,7 @@
 from sklearn.ensemble import IsolationForest
 import numpy as np
 import joblib
-from Interfaz.py import get_connection  
+from Interfaz import get_connection  
 
 # Mensaje de inicio
 print("Iniciando el script de entrenamiento del modelo de anomalías...")
