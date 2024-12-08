@@ -28,6 +28,8 @@ Al momento de clonar el repositorio visualice el archivo o descarguelo directame
 
 ## Instalación de la Interfaz
 
+Revisar el codigo para realizar los cambios correspondientes en las direcciones de las imágenes y base de datos.
+
 ### Crear entorno virtual (Recomendado)
 
 1. **Crear una carpeta donde alojará los archivos**  
@@ -51,7 +53,7 @@ Al momento de clonar el repositorio visualice el archivo o descarguelo directame
 
 ### Pasos de la instalación
 
-Dentro de la carpeta del entorno virtual creado previamente
+Dentro de la carpeta del entorno virtual creado previamente, y en el codigo 
 
 1. **Clona el repositorio:**
 
