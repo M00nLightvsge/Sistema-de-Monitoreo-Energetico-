@@ -39,6 +39,8 @@ Con sensores de corriente, creamos un sistema que monitoree el consumo eléctric
 
 ### Pasos de la instalación
 
+Dentro de la carpeta del entorno virtual creado previamente
+
 1. **Clona el repositorio:**
 
    ```bash
@@ -47,16 +49,11 @@ Con sensores de corriente, creamos un sistema que monitoree el consumo eléctric
 2. **Navega al directorio del proyecto:**
 
    ```bash
-   cd prediccion-academica  
+   cd Sistema-de-Monitoreo-Energetico-  
 
-3. **Instala las dependencias:**
-
-   ```bash
-   pip install -r requirements.txt  
-
-4. **Ejecuta la aplicación:**
+3. **Ejecuta la aplicación:**
 
    ```bash
-   python app.py  
+   python Interfaz.py  
 
 
