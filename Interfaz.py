@@ -17,10 +17,10 @@ import matplotlib.pyplot as plt
 # Función para conectar a la base de datos
 def get_connection():
     return pyodbc.connect(
-        'DRIVER={ODBC Driver 17 for SQL Server};'
-        'SERVER=DESKTOP-D5VHBMM\\MSSQLSERVER1;'
+        'DRIVER={ODBC Driver 17 for SQL Server};' 
+        'SERVER=DESKTOP-D5VHBMM\\MSSQLSERVER1;'#Cambiar por el servidor que tiene
         'DATABASE=DataBaseProject;'
-        'Trusted_Connection=yes;'
+        'Trusted_Connection=yes;'#Si su servidor tiene contraseña agregar la linea 'UID=tu_usuario' y en otra linea 'PWD=tu_contraseña'
     )
 
 # Función para verificar las credenciales desde SQL Server
@@ -393,7 +393,7 @@ class NormalUserWindow(QtWidgets.QWidget):
         self.current_theme = "Claro"  # Estado inicial del tema
 
         self.setWindowTitle(f"Panel de Monitoreo Energético ({self.username})")
-        self.setWindowIcon(QtGui.QIcon("C:/Users/BENJAMIN/OneDrive/Escritorio/casco.ico"))
+        self.setWindowIcon(QtGui.QIcon("C:/Users/BENJAMIN/OneDrive/Escritorio/casco.ico")) #Cambie esta dirección por la nueva que tendrá en su computador)
         self.setGeometry(100, 100, 1400, 900)
 
         # Fondo inicial (tema claro por defecto)
