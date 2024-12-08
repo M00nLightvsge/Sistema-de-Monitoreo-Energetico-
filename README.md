@@ -1,1 +1,1 @@
-# Ingrese al apartado master
+# Ingrese al apartado master para ver el proyecto, en otro caso ignore esto
