@@ -32,8 +32,7 @@ Con sensores de corriente, creamos un sistema que monitoree el consumo eléctric
    ```bash
    .\entorno\Scripts\activate
 
-5. **Instala las dependencias**
-   Una vez activado, instala las bibliotecas necesarias:
+5. **Instala las dependencias, previamente activado el entorno**
 
    ```bash
    pip install PyQt5 pyodbc pyqtgraph matplotlib pyserial joblib numpy
