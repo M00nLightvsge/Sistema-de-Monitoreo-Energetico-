@@ -70,5 +70,5 @@ Dentro de la carpeta del entorno virtual creado previamente, y en el codigo
    ```bash
    python Interfaz.py  
 
-[Descargar PDF](./DocumentacionFinal.pdf)
+Documentación: [Descargar PDF](./DocumentacionFinal.pdf)
 
