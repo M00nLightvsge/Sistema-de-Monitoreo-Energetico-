@@ -16,20 +16,19 @@ Con sensores de corriente, creamos un sistema que monitoree el consumo eléctric
   
 ## Instalación
 
-### Crear entorno virtual(Recomendado)
+### Crear entorno virtual (Recomendado)
 
 1. **Crear una carpeta donde alojará los archivos**  
 
 2. **Abre tu terminal o línea de comandos**
-Asegúrate de estar en la carpeta donde deseas crear el entorno virtual.
+   Asegúrate de estar en la carpeta donde deseas crear el entorno virtual.
 
 3. **Crea el entorno virtual**
-Ejecuta el siguiente comando:
+   Ejecuta el siguiente comando:
    
    ```bash
    python -m venv entorno
-Cambie si desea el nombre de "entorno" por el que prefiera   
-
+  
 4. **Activa el entorno virtual**
    En Windows:
 
@@ -37,7 +36,7 @@ Cambie si desea el nombre de "entorno" por el que prefiera
    .\entorno\Scripts\activate
 
 5. **Instala las dependencias**
-Una vez activado, instala las bibliotecas necesarias:
+   Una vez activado, instala las bibliotecas necesarias:
 
    ```bash
    pip install PyQt5 pyodbc pyqtgraph matplotlib pyserial joblib numpy
