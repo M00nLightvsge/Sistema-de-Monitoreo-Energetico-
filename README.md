@@ -30,7 +30,7 @@ Con sensores de corriente, creamos un sistema que monitoree el consumo eléctric
    python -m venv entorno
   
 4. **Activa el entorno virtual**
-   En Windows:
+En Windows:
 
    ```bash
    .\entorno\Scripts\activate
